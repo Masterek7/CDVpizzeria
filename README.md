@@ -1,3 +1,3 @@
 # CDVpizzeria
 Projekt CDV Github kurs - to repo zawiera pliki niezbędne do stworzenia najlepszej pizzerii na świecie
-ten plik jest vehe
+to jest strona pizzerii..
