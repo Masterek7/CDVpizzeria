@@ -26,7 +26,7 @@
 |5. |Milano (sos pomidorowy, podwójny ser, papryka i oregano)       |        |20zł|20zł|20zł|
 
 
-## Pizze klasyczne
+## Pizze Vege
 
 <img src="zdjęcia/photo-1513104890138-7c749659a591.avif" width= 300>
 
