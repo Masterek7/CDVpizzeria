@@ -7,5 +7,5 @@ Janke
 ## Grafik
 
 ## Kucharz
-
+Dominik
 ## Kelnerzy
