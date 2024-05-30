@@ -1,5 +1,5 @@
 # Zespół
-
+Jesteśmy super dobrzy.
 ## Kierownik
 
 ## Dostawca
