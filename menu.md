@@ -40,7 +40,7 @@
 
 ## Pizze Vege
 
-<img src="zdjęcia/photo-1571066811602-716837d681de.avif" width= 300>
+<img src="zdjęcia/premium_photo-1673439305009-821f62df6d31.avif" width= 300>
 
 |L.p|Pizza                                                          |Rozmiar:|30cm|50cm|60cm|
 |---|---------------------------------------------------------------|--------|----|----|----|
