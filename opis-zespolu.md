@@ -9,3 +9,4 @@ Janke
 ## Kucharz
 Dominik
 ## Kelnerzy
+Joasia, Kasia, Matyna
